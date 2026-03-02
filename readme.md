@@ -1,4 +1,4 @@
-![StudyBuddy Banner](banner.jpg)
+![StudyBuddy Banner](/img/banner.jpg)
 
 # StudyBuddy
 
@@ -71,6 +71,6 @@ Studenti će moći kreirati bilješke u Markdown formatu, označiti ih kao priva
 ---
 
 ## Vizualni Prototip
-![StudyBuddy Prototip1](image1.jpg)
+![StudyBuddy Prototip1](/img/image1.jpg)
 
 ## FAZA 1 GOTOVA
