@@ -11,8 +11,6 @@ StudyBuddy je moderna web aplikacija namijenjena srednjoškolcima i studentima k
 Cilj aplikacije je stvoriti centralizirano, jednostavno i besplatno mjesto gdje korisnici mogu brzo pronaći kvalitetne materijale, podijeliti svoje znanje s drugima, dobiti povratne informacije kroz komentare i ocjene te učiti interaktivno pomoću flashcardsa. 
 
 **Korisnici aplikacije:**
-- Srednjoškolci (gimnazije i strukovne škole)
-- Studenti fakulteta (posebno prve i druge godine)
 - Grupe za učenje i razredne zajednice
 - Ciljna dob: 15–25 godina
 
@@ -62,11 +60,10 @@ Studenti će moći kreirati bilješke u Markdown formatu, označiti ih kao priva
    - Otvori bilješku koja sadrži flashcards → klikne „Uči sada“ → pregledava kartice (pitanje ↔ odgovor) i bilježi točnost.
 
 ## Tehnologije
-- Frontend: SolidJS + Vite
-- Stilovi: TailwindCSS + DaisyUI
-- Backend: Firebase (Auth + Firestore)
+- Frontend:TailwindCSS + DaisyUI
+- Backend: SolidJS + Vite, Firebase (Auth + Firestore)
 - Hosting: Firebase Hosting
-- Verzioniranje: Git + GitHub
+- Verzioniranje: Github
 
 ---
 
